@@ -280,4 +280,4 @@ git clone https://github.com/datnq/react-use-model
 
 ## License
 
-MIT © 2019 by [Joey Nguyen](https://github.com/datnq)
+MIT © 2019 by [Phuoc Chung](https://github.com/chungthanhphuoc/react-hooks-usemodel.git)
